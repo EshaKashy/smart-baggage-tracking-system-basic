@@ -1,0 +1,15 @@
+[
+    {
+        "id": "1",
+        "owner": "Alice",
+        "status": "Delivered",
+        "location": "Baggage Claim A"
+    },
+    {
+        "id": "2",
+        "owner": "Bob",
+        "status": "In Transit",
+        "location": "Baggage Claim B"
+    }
+]
+
